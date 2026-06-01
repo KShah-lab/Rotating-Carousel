@@ -1,2 +1,3 @@
 # Rotating Pen Carousel
 
+#### The purpose of the project was to organise my home desk setup as it is very complicated and messy. I also wanted to store some parts that i just had laying around such as gluesticks and screwdrivers. So, i decided to create something which would make it much easier for me to access all of this and keep it organised at the same time. After looking at some models on printables for inspiration, i decided to make make a rotating pen carousel where not only the base plate would move but so would each of the inidivdual containers with the objects in. This allows for full funcitonality and versatilty whilst looking relativly minimal and clean at the same time. 
