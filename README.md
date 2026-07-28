@@ -18,3 +18,6 @@ As a result of this, i decided to create something more simple and 3D printing f
 ![Screenshot](Screenshot%202026-07-29%20at%2011.52.46.png)
 ![Screenshot](Screenshot%202026-07-29%20at%2011.54.18.png)
 ![Screenshot](Screenshot%202026-07-29%20at%2012.23.13.png)
+![Screenshot](Screenshot%202026-07-28%20at%2011.52.46.png)
+![Screenshot](Screenshot%202026-07-28%20at%2011.54.18.png)
+![Screenshot](Screenshot%202026-07-28%20at%2012.23.13.png)
