@@ -1,5 +1,12 @@
-# Rotating Pen Carousel
+# Rotating Carousel
 
-#### The purpose of the project was to organise my home desk setup as it is very complicated and messy. I also wanted to store some parts that i just had laying around such as gluesticks and screwdrivers. So, i decided to create something which would make it much easier for me to access all of this and keep it organised at the same time. After looking at some models on printables for inspiration, i decided to make make a rotating pen carousel where not only the base plate would move but so would each of the inidivdual containers with the objects in. This allows for full funcitonality and versatilty whilst looking relativly minimal and clean at the same time. I had to balance each container on the axel and make sure it would be able to spin. Instead of using bearings i decided to look for a more simple and easier way by making the inner diameter of each container 0.5mm wider than the width of the axel. This allows it to spin cleanly as well as make it removable if it is damaged. This also allows for customisation as there is no fixed shape or design.
+Rotating carousel.
 
-![Screenshot](Screenshot%202026-06-01%20at%2010.45.17.png)
+For Hack Club Macondo i decided to create a rotating carousel with dividers. The purpose of the project was to allow all my loose items such as screws, keys or pens and pencils to be organised and easily accessible at the same time.
+
+I had several different ideas at first and to begin with settled with the idea of making a base which rotates along with 4 different cups which also rotate. After, i had to come back after a break, i considered the feasbility of the project and decided to alter the design for the following reasons:
+1.  The original designs had multiple moving parts which i later found uneccessary and more hard to print. 
+2. Waste of filament
+3. Actual loss of fuctionality and purpose due to over complicated design. 
+
+As a result of this, i decided to create something more simple and 3D printing friendly. I spent a long time trying to find a better design and eventually settled on a single rotaing circular storage area which could be divided into sections with removable dividers. The dividers allowed for the user to customise the size of the rotater. For example, one could have 2 areas using 2 dividers (half and half) or 4 areas or just use the whole thing as it is.
