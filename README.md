@@ -11,7 +11,7 @@ I had several different ideas at first and to begin with settled with the idea o
 
 As a result of this, i decided to create something more simple and 3D printing friendly. I spent a long time trying to find a better design and eventually settled on a single rotaing circular storage area which could be divided into sections with removable dividers. The dividers allowed for the user to customise the size of the rotater. For example, one could have 2 areas using 2 dividers (half and half) or 4 areas or just use the whole thing as it is.
 
-![Screenshot](Screenshot%202026-07-29%20at%2011.52.46.png)
-![Screenshot](Screenshot%202026-07-29%20at%2011.54.18.png)
-![Screenshot](Screenshot%202026-07-29%20at%2012.23.13.png)
+[Screenshot](Screenshot%202026-07-29%20at%2011.52.46.png)
+[Screenshot](Screenshot%202026-07-29%20at%2011.54.18.png)
+[Screenshot](Screenshot%202026-07-29%20at%2012.23.13.png)
 
