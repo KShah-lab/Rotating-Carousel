@@ -13,3 +13,11 @@ As a result of this, i decided to create something more simple and 3D printing f
 ![Carousel Picture 1](./Images/Screenshot%202026-08-01%20at%2017.41.12.png)
 ![Carousel Picture 2](./Images/Screenshot%202026-08-01%20at%2017.41.41.png)
 ![Carousel Picture 3](./Images/Screenshot%202026-08-01%20at%2017.42.59.png)
+## Bill of Materials (BOM)
+
+| Item | Details | Quantity | Unit Cost (£) | Total Cost (£) |
+|------|---------|----------|----------------|-----------------|
+| Filament | Bambu Lab Orange PLA | 63.77 g | 0.035 | 2.23 |
+| Print Time | 1h 51min | — | — | — |
+
+**Total Cost:** £2.23
